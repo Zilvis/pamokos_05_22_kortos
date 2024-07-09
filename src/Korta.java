@@ -23,4 +23,5 @@ public class Korta {
 						"| %s |\n" +
 						" __%s", kortosSimbolis,kortosZenklas.getZenklas(),kortosSimbolis);
 	}
+	// Bandymas
 }
